@@ -1,3 +1,39 @@
+# 👋 Hi, I'm Anwar Alam
+
+🎓 **B.Tech CSE Student | Aspiring AI/ML Engineer**
+
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I enjoy learning by building projects and solving programming problems.
+
+### 🚀 What I'm Currently Working On
+
+* 🧠 Strengthening **Data Structures & Algorithms in C++**
+* 🤖 Learning **Machine Learning & AI**
+* 🔗 Exploring **RAG, LangChain, LLMs & AI APIs**
+* 🐍 Building projects with **Python**
+* 🌐 Improving my **HTML, CSS & JavaScript** skills
+* 💻 Practicing problem solving and competitive programming
+* 🛠️ Building practical AI/ML projects for my portfolio
+
+### 🧰 Tech Stack
+
+**Languages:**
+C++ • Python • JavaScript • HTML • CSS
+
+**AI/ML:**
+Scikit-learn • Pandas • NumPy • RAG • LangChain • LLM APIs
+
+**Tools & Technologies:**
+Git • GitHub • VS Code • Jupyter Notebook • FAISS
+
+### 📌 Current Goal
+
+My goal is to become a strong **AI/ML Engineer** by combining solid programming fundamentals, DSA, machine learning, and real-world project development.
+
+> **Learn → Build → Break → Debug → Improve 🚀**
+
+### 📫 Let's Connect
+
+I'm always interested in learning, collaborating on projects, and connecting with other developers.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-anwar-alam-3173b03a1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryankhan08242@gmail.com) 
